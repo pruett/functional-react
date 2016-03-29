@@ -13,13 +13,11 @@ describe('<Footer />', function () {
     expect(wrapper.type()).to.equal('footer')
   })
 
-  it('should include a phone number when passed in', function () {
+  it('should include instructions how to call us when a phone number is passed in', function () {
     const wrapper = shallow(
       <Footer phone={'123456'}/>
     )
-    expect(wrapper.contains(
-      <p>Call us at: 123456</p>
-    )).to.be.true
+    expect(wrapper.contains('Call us at: 123456')).to.be.true
   })
 
 })

@@ -6,11 +6,12 @@ Exploring various approaches to building frontend with React and other modern fr
 - [x] ES2015 / Babel transpilation
 - [x] Webpack v2
 - [x] React 15 (RC2)
-- [ ] Explore CSS strategies (PostCSS, CSS Modules, Sass)
+- [x] Explore CSS approaches (PostCSS, CSS Modules, Sass)
+- [x] CSS Linting
 - [x] Unit Testing
 - [ ] Functional End-to-end testing
-- [ ] Linting (ESLint)
-- [ ] Approach (Functional, HoCs, alternative to mixins)
+- [ ] JS Linting
+- [ ] High-level approach (FP, HoCs, Eliminate React Mixins)
 
 ## Check it out
 

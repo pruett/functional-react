@@ -12,6 +12,7 @@ Exploring various approaches to building frontend with React and other modern fr
 - [ ] Functional End-to-end testing
 - [ ] JS Linting
 - [ ] High-level approach (FP, HoCs, Eliminate React Mixins)
+- [ ] Page-specific webpack bundling (require.ensure)
 
 ## Check it out
 
